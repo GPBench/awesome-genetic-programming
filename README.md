@@ -47,6 +47,8 @@ Some usefule acronyms:
   - [Papers](#papers)
   - [Researchers](#researchers)
 
+## Algorithm
+
 ### Boolean Function Algorithms
 
 #### CGP
@@ -117,3 +119,29 @@ Some usefule acronyms:
 ### General Tools
 
 - **[rEGGression](https://github.com/folivetti/reggression)**:  an interactive tool that can help SR users to explore alternative models generated from different sources. These sources can be: the final population of a single run, the Pareto front, the entire history of visited expressions during the search, or a combination of those sources from multiple runs of the same or different algorithms
+
+## Benchmarks
+
+### [General Boolean Synthesis](https://github.com/boolean-function-benchmarks/benchmarks)
+
+### SRBench
+
+### Feynman
+
+### PSB1
+
+### PSB2
+
+### ARC Challenge
+
+## Datasets
+
+## Books
+
+## Tutorials
+
+## Courses
+
+## Papers
+
+## Researchers
