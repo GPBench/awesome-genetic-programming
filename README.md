@@ -150,7 +150,7 @@ Some usefule acronyms:
 
 ## Tutorials
 
-- **[A Genetic Programming Tutorial  (John R. Koza and Riccardo Poli](http://www.lia.deis.unibo.it/Courses/AI/fundamentalsAI2004-05/lucidi/seminari/roli/gptutorial.pdf)
+- **[A Genetic Programming Tutorial  (John R. Koza and Riccardo Poli](http://www.lia.deis.unibo.it/Courses/AI/fundamentalsAI2004-05/lucidi/seminari/roli/gptutorial.pdf)**: genetic programming tutorial
 - **[CGP tutorial](https://github.com/d9w/CGP-tutorial)**: 2025 GECCO tutorial on Cartesian Genetic Programming
   
 ## Courses
