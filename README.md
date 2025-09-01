@@ -41,9 +41,7 @@ Some usefule acronyms:
     - [OpenML](#openml)
   - [Books](#books)
   - [Tutorials](#tutorials)
-    - **[CGP tutorial](https://github.com/d9w/CGP-tutorial)**: 2025 GECCO tutorial on Cartesian Genetic Programming
   - [Courses](#courses)
-    - **[ISAE-Supaero Evolution class](https://github.com/d9w/evolution)**: module on evolution with a class on GP
   - [Papers](#papers)
   - [Researchers](#researchers)
 
@@ -122,26 +120,43 @@ Some usefule acronyms:
 
 ## Benchmarks
 
-### [General Boolean Synthesis](https://github.com/boolean-function-benchmarks/benchmarks)
+### [General Boolean Synthesis](https://github.com/boolean-function-benchmarks/benchmarks): curated list of benchmarks for boolean function synthesis.
 
-### SRBench
+### [SRBench](https://cavalab.org/srbench/): living benchmark for symbolic regression.
 
-### Feynman
+### [Feynman](https://space.mit.edu/home/tegmark/aifeynman.html): datasets generated from the Feynman books equations, crafted for symbolic regression.
 
-### PSB1
+### [PSB1](https://erp12.github.io/program-synthesis-benchmarks/): first version of the program synthesis benchmark for genetic programming.
 
-### PSB2
+### [PSB2](https://erp12.github.io/program-synthesis-benchmarks/): second version of the program synthesis benchmark for genetic programming.
 
-### ARC Challenge
+### [ARC Challenge](https://arcprize.org/): Founded by Mike Knoop (Co-founder, Zapier) and François Chollet (Creator of ARC-AGI, Keras), the ARC Prize Foundation is a non-profit organization with the mission to guide researchers, industry, and regulators towards artificial general intelligence through enduring benchmarks.
 
 ## Datasets
 
+### [PMLB](https://github.com/EpistasisLab/pmlb): Penn Machine Learning curated benchmarks
+
+### [OpenML](https://www.openml.org/): an open platform for sharing datasets, algorithms, and experiments - to learn how to learn better, together.
+
 ## Books
+
+- [Genetic Programming: On the Programming of Computers by Means of Natural Selection (John R. Koza)](https://books.google.com.br/books/about/Genetic_Programming.html?id=Bhtxo60BV0EC)
+- [Genetic Programming Automatic Discovery of Reusable Programs (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming/AsNUoAEACAAJ)
+- [Genetic Programming II Automatic Discovery of Reusable Programs (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_II/Nwl90AEACAAJ)
+- [Genetic Programming III Darwinian Invention and Problem Solving (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_III/pIQEJHeevEcC)
+- [Genetic Programming IV Routine Human-Competitive Machine Intelligence (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_IV/u8DZRPsh9VIC)
+- [Symbolic Regression (Gabriel Kronberger, Bogdan Burlacu, Michael Kommenda, Stephan M. Winkler, Michael Affenzeller)](https://www.routledge.com/Symbolic-Regression/Kronberger-Burlacu-Kommenda-Winkler-Affenzeller/p/book/9781138054813)
 
 ## Tutorials
 
+- **[A Genetic Programming Tutorial  (John R. Koza and Riccardo Poli](http://www.lia.deis.unibo.it/Courses/AI/fundamentalsAI2004-05/lucidi/seminari/roli/gptutorial.pdf)
+- **[CGP tutorial](https://github.com/d9w/CGP-tutorial)**: 2025 GECCO tutorial on Cartesian Genetic Programming
+  
 ## Courses
 
+- **[ISAE-Supaero Evolution class](https://github.com/d9w/evolution)**: module on evolution with a class on GP
+- **[UFABC-Symbolic Regression](https://folivetti.github.io/teaching/2025-summer-teaching-2)**: Symbolic Regression graduate course
+  
 ## Papers
 
 ## Researchers
