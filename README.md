@@ -145,6 +145,7 @@ Some usefule acronyms:
 - [Genetic Programming II Automatic Discovery of Reusable Programs (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_II/Nwl90AEACAAJ)
 - [Genetic Programming III Darwinian Invention and Problem Solving (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_III/pIQEJHeevEcC)
 - [Genetic Programming IV Routine Human-Competitive Machine Intelligence (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_IV/u8DZRPsh9VIC)
+- [Linear Genetic Programming (Markus F. Brameier , Wolfgang Banzhaf)](https://link.springer.com/book/10.1007/978-0-387-31030-5)
 - [Symbolic Regression (Gabriel Kronberger, Bogdan Burlacu, Michael Kommenda, Stephan M. Winkler, Michael Affenzeller)](https://www.routledge.com/Symbolic-Regression/Kronberger-Burlacu-Kommenda-Winkler-Affenzeller/p/book/9781138054813)
 
 ## Tutorials
