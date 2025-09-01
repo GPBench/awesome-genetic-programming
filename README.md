@@ -21,9 +21,9 @@ Some usefule acronyms:
 <!-- MarkdownTOC depth=4 -->
 <!-- Contents-->
 - [Awesome Genetic Programming](#awesome-genetic-programming)
-  - [Softwares](#softwares)
+  - [Algorithm implementations](#algorithm)
     - [Boolean function synthesis](#boolean-function-softwares)
-      - **[cgp-plusplus](https://github.com/RomanKalkreuth/cgp-plusplus)** (CGP): Modern C++ implementation with concurrency, checkpointing, and benchmarks
+      
     - [Symbolic Regression](#sybolic-reggression-softwares)
       - **[pyCGP](https://github.com/scussatb/pyCGP)** (CGP): Python implementation focused on symbolic regression and image analysis
       - **[cartesian](https://github.com/Ohjeah/cartesian)** (CGP): Lightweight Python CGP for symbolic regression
@@ -60,3 +60,7 @@ Some usefule acronyms:
     - **[ISAE-Supaero Evolution class](https://github.com/d9w/evolution)**: module on evolution with a class on GP
   - [Papers](#papers)
   - [Researchers](#researchers)
+
+### Boolean Function Softwares
+
+- **[cgp-plusplus](https://github.com/RomanKalkreuth/cgp-plusplus)** (CGP): Modern C++ implementation with concurrency, checkpointing, and benchmarks
