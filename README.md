@@ -71,6 +71,10 @@ Some usefule acronyms:
 - **[bingo](https://github.com/nasa/bingo)**: symbolic regression incorporating uncertainty information through Bayesian approaches.
 - **[tinyGP](https://github.com/moshesipper/tiny_gp)**: A minimalistic program implementing Koza-style (tree-based) genetic programming to solve a symbolic regression problem.
 
+#### Stack
+
+- **[StackGP](https://github.com/hoolagans/StackGP)**: symbolic regression engine in Python focused on finding Pareto optimal models
+
 ### Time-series
 
 ### CGP
