@@ -12,7 +12,7 @@ Deprecated software will still be maintained in the list according to popularity
 Some usefule acronyms:
 
 - TGP: Tree-based Genetic Programming
-- CGP: Cartesian-Graph Genetic Programming
+- CGP: Cartesian-Graph and Graph-based Genetic Programming
 - LGP: Linear Genetic Programming
 - GE: Grammatical Evolution or grammar based Genetic Programming
   
@@ -24,6 +24,7 @@ Some usefule acronyms:
   - [Algorithm implementations](#algorithm)
     - [Boolean function synthesis](#boolean-function-algorithms)      
     - [Symbolic Regression](#symbolic-reggression-algorithms)
+    - [Time-series](#time-series)
     - [Reinforcement Learning](#reinforcement-learning-algorithms)      
     - [Program Synthesis](#program-synthesis-algorithms)
     - [Machine learning](#machine-learning-algorithms)
@@ -69,7 +70,12 @@ Some usefule acronyms:
 - **[brush](https://github.com/cavalab/brush)**: interpretable machine learning library for training symbolic models mixing decision trees with mathematical models.
 - **[bingo](https://github.com/nasa/bingo)**: symbolic regression incorporating uncertainty information through Bayesian approaches.
 - **[tinyGP](https://github.com/moshesipper/tiny_gp)**: A minimalistic program implementing Koza-style (tree-based) genetic programming to solve a symbolic regression problem.
-  
+
+### Time-series
+
+### CGP
+- **[exa-gp](https://github.com/travisdesell/exact)**: graph-based genetic programming for time-series.
+
 ### Reinforcement Learning Algorithms
 
 #### CGP
