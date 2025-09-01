@@ -68,7 +68,8 @@ Some usefule acronyms:
 - **[gpg](https://github.com/marcovirgolin/gpg)**: new implementation of GP-GOMEA focused solely on symbolic regression
 - **[brush](https://github.com/cavalab/brush)**: interpretable machine learning library for training symbolic models mixing decision trees with mathematical models.
 - **[bingo](https://github.com/nasa/bingo)**: symbolic regression incorporating uncertainty information through Bayesian approaches.
-
+- **[tinyGP](https://github.com/moshesipper/tiny_gp)**: A minimalistic program implementing Koza-style (tree-based) genetic programming to solve a symbolic regression problem.
+  
 ### Reinforcement Learning Algorithms
 
 #### CGP
