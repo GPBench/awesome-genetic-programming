@@ -42,8 +42,6 @@ Some usefule acronyms:
   - [Books](#books)
   - [Tutorials](#tutorials)
   - [Courses](#courses)
-  - [Papers](#papers)
-  - [Researchers](#researchers)
 
 ## Algorithm
 
