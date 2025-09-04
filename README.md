@@ -15,6 +15,8 @@ Some usefule acronyms:
 - CGP: Cartesian-Graph and Graph-based Genetic Programming
 - LGP: Linear Genetic Programming
 - GE: Grammatical Evolution or grammar based Genetic Programming
+
+**TODO:** add criteria for adding papers.
   
 ## Table of Contents
 
