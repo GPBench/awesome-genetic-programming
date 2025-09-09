@@ -1,20 +1,20 @@
 # Awesome Genetic Programming
 
-A curated list of awesome genetic programming books, papers, tutorials, conferences, and softwares (by language).
+A curated list of awesome genetic programming books, papers, tutorials, conferences, and software (by language).
 
-Contribute to this list sending a pull request and help identifying deprecated content. Deprecations should be marked if:
+Contribute to this list by sending a pull request and help identify deprecated content. Deprecations should be marked if:
 
-- The repostory explicitly mention it.
+- The repository explicitly mentions it.
 - +5 years without commit.
 
 Deprecated software will still be maintained in the list according to popularity.
 
-Some usefule acronyms:
+Some useful acronyms:
 
 - TGP: Tree-based Genetic Programming
 - CGP: Cartesian-Graph and Graph-based Genetic Programming
 - LGP: Linear Genetic Programming
-- GE: Grammatical Evolution or grammar based Genetic Programming
+- GE: Grammatical Evolution or grammar-based Genetic Programming
 
 **TODO:** add criteria for adding papers.
   
@@ -30,7 +30,7 @@ Some usefule acronyms:
     - [Reinforcement Learning](#reinforcement-learning-algorithms)      
     - [Program Synthesis](#program-synthesis-algorithms)
     - [Machine learning](#machine-learning-algorithms)
-    - [Multi domain and Multiple Representation](#multi-domain-and-multiple-representation)
+    - [Multi-domain and Multiple Representation](#multi-domain-and-multiple-representation)
     - [Utility tools and libraries](#general-tools)
   - [Benchmarks](#benchmarks)
     - [General Boolean Synthesis](#general-boolean-synthesis)
@@ -54,7 +54,7 @@ Some usefule acronyms:
 
 - **[cgp-plusplus](https://github.com/RomanKalkreuth/cgp-plusplus)**: Modern C++ implementation with concurrency, checkpointing, and benchmarks
 
-### Symbolic Reggression Algorithms
+### Symbolic Regression Algorithms
 
 #### CGP
 
@@ -72,6 +72,7 @@ Some usefule acronyms:
 - **[brush](https://github.com/cavalab/brush)**: interpretable machine learning library for training symbolic models mixing decision trees with mathematical models.
 - **[bingo](https://github.com/nasa/bingo)**: symbolic regression incorporating uncertainty information through Bayesian approaches.
 - **[tinyGP](https://github.com/moshesipper/tiny_gp)**: A minimalistic program implementing Koza-style (tree-based) genetic programming to solve a symbolic regression problem.
+- **[EC-KitY](https://github.com/ec-kity/ec-kity)**: Two TGP implementations based on EC-KitY for solving symbolic regression, one with scikit-learn and one without.
 
 #### Stack
 
@@ -91,7 +92,7 @@ Some usefule acronyms:
 
 #### LGP
 
-- **[](https://github.com/giorgia-nadizar/cgpax)**: LGP and CGP implementation with BRAX/JAX.
+- **[CGPAX](https://github.com/giorgia-nadizar/cgpax)**: LGP and CGP implementation with BRAX/JAX.
 
 ### Program Synthesis Algorithms 
 
@@ -115,12 +116,15 @@ Some usefule acronyms:
 
 ### Machine Learning Algorithms
 
+#### TGP
+- **[EC-KitY](https://github.com/ec-kity/ec-kity)**: A scikit-learn-compatible Python tool kit for doing evolutionary computation.
+
 #### CGP 
 - **[CGPNAS](https://github.com/Cosijopiii/CGPNAS)**: CGP for multi-objective neural architecture search
 - **[NEAT](https://nn.cs.utexas.edu/soft-view.php?SoftID=4)**: Neuroevolution of augmenting topologies
 - **[HyperNEAT](https://github.com/SirBob01/HyperNEAT)**: Hypercube-based NEAT
 
-### Multi domain and Multiple Representation
+### Multi-domain and Multiple Representation
 
 - **[tinyverseGP](https://github.com/gpbench/tinyversegp)**: minimalist implementation of multiple representations for multiple problem domains.
 - **[geneticengine](https://github.com/alcides/GeneticEngine)**: search-based Python library that allows you to describe the structure of your solutions as Python dataclasses and abstract classes, and explores the solution space using different algorithms, such as enumerative search, hill climbing, and several flavors of Genetic Programming.
@@ -156,7 +160,7 @@ Some usefule acronyms:
 - [Genetic Programming II Automatic Discovery of Reusable Programs (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_II/Nwl90AEACAAJ)
 - [Genetic Programming III Darwinian Invention and Problem Solving (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_III/pIQEJHeevEcC)
 - [Genetic Programming IV Routine Human-Competitive Machine Intelligence (John R. Koza)](https://www.google.com.br/books/edition/Genetic_Programming_IV/u8DZRPsh9VIC)
-- [Linear Genetic Programming (Markus F. Brameier , Wolfgang Banzhaf)](https://link.springer.com/book/10.1007/978-0-387-31030-5)
+- [Linear Genetic Programming (Markus F. Brameier, Wolfgang Banzhaf)](https://link.springer.com/book/10.1007/978-0-387-31030-5)
 - [Symbolic Regression (Gabriel Kronberger, Bogdan Burlacu, Michael Kommenda, Stephan M. Winkler, Michael Affenzeller)](https://www.routledge.com/Symbolic-Regression/Kronberger-Burlacu-Kommenda-Winkler-Affenzeller/p/book/9781138054813)
 
 ## Tutorials
