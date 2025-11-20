@@ -43,7 +43,7 @@ Some useful acronyms:
     - [PMLB](#pmbl)
     - [OpenML](#openml)
   - [Books](#books)
-  - [Tutorials](#tutorials)
+  - [Tutorials and Blog Posts](#tutorials)
   - [Courses](#courses)
 
 ## Algorithm
@@ -163,11 +163,14 @@ Some useful acronyms:
 - [Linear Genetic Programming (Markus F. Brameier, Wolfgang Banzhaf)](https://link.springer.com/book/10.1007/978-0-387-31030-5)
 - [Symbolic Regression (Gabriel Kronberger, Bogdan Burlacu, Michael Kommenda, Stephan M. Winkler, Michael Affenzeller)](https://www.routledge.com/Symbolic-Regression/Kronberger-Burlacu-Kommenda-Winkler-Affenzeller/p/book/9781138054813)
 
-## Tutorials
+## Tutorials and Blog Posts
 
 - **[A Genetic Programming Tutorial  (John R. Koza and Riccardo Poli](http://www.lia.deis.unibo.it/Courses/AI/fundamentalsAI2004-05/lucidi/seminari/roli/gptutorial.pdf)**: genetic programming tutorial
 - **[CGP tutorial](https://github.com/d9w/CGP-tutorial)**: 2025 GECCO tutorial on Cartesian Genetic Programming
-  
+- **[The Secret Weapon for Better Equation Discovery: E-graphs and Equality Saturation](https://symreg.at/blog/2025/equality-saturation-and-symbolic-regression/)**: blog post on the use of e-graphs to improve symbolic regression search algorithms.
+- **[A Powerful Database for Equations: Using e-graphs and Equality Saturation for Interactive Equation Discovery
+](https://github.com/folivetti/reggression/blob/main/tutorials/blog/post.md)**: blog post explaining how e-graphs can be used as a database of symbolic expressions.
+
 ## Courses
 
 - **[ISAE-Supaero Evolution class](https://github.com/d9w/evolution)**: module on evolution with a class on GP
