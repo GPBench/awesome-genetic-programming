@@ -17,17 +17,17 @@ Some useful acronyms:
 - GE: Grammatical Evolution or grammar-based Genetic Programming
 
 **TODO:** add criteria for adding papers.
-  
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 <!-- Contents-->
 - [Awesome Genetic Programming](#awesome-genetic-programming)
   - [Algorithm implementations](#algorithm)
-    - [Boolean function synthesis](#boolean-function-algorithms)      
+    - [Boolean function synthesis](#boolean-function-algorithms)
     - [Symbolic Regression](#symbolic-reggression-algorithms)
     - [Time-series](#time-series)
-    - [Reinforcement Learning](#reinforcement-learning-algorithms)      
+    - [Reinforcement Learning](#reinforcement-learning-algorithms)
     - [Program Synthesis](#program-synthesis-algorithms)
     - [Machine learning](#machine-learning-algorithms)
     - [Multi-domain and Multiple Representation](#multi-domain-and-multiple-representation)
@@ -62,6 +62,10 @@ Some useful acronyms:
 - **[cartesian](https://github.com/Ohjeah/cartesian)**: Lightweight Python CGP for symbolic regression
 - **[dcgp](https://github.com/darioizzo/dcgp)**: Differentiable CGP with derivative information for advanced optimization
 
+#### LGP
+
+* [Ultra](https://github.com/morinim/ultra): C++23 evolutionary computation framework supporting symbolic regression and classification through straight-line-program-based genetic programming, with typed primitives and concurrent execution
+
 #### TGP
 
 - **[operon](https://github.com/heal-research/pyoperon)**: a high-performant Python library with a C++ backend
@@ -94,7 +98,7 @@ Some useful acronyms:
 
 - **[CGPAX](https://github.com/giorgia-nadizar/cgpax)**: LGP and CGP implementation with BRAX/JAX.
 
-### Program Synthesis Algorithms 
+### Program Synthesis Algorithms
 
 #### CGP
 
@@ -109,7 +113,7 @@ Some useful acronyms:
 
 - **[pushgp](https://github.com/lspector/Clojush)**: Push-GP, a stack-based genetic programming for program synthesis
 
-#### GE 
+#### GE
 
 - **[g3p](https://robert-haas.github.io/g3p/)**: grammar-guided genetic programming
 - **[cbgp](https://github.com/erp12/cbgp-lite)**: Code Building Genetic Programming for a narrow subset of the Clojure language.
@@ -119,7 +123,7 @@ Some useful acronyms:
 #### TGP
 - **[EC-KitY](https://github.com/ec-kity/ec-kity)**: A scikit-learn-compatible Python tool kit for doing evolutionary computation.
 
-#### CGP 
+#### CGP
 - **[CGPNAS](https://github.com/Cosijopiii/CGPNAS)**: CGP for multi-objective neural architecture search
 - **[NEAT](https://nn.cs.utexas.edu/soft-view.php?SoftID=4)**: Neuroevolution of augmenting topologies
 - **[HyperNEAT](https://github.com/SirBob01/HyperNEAT)**: Hypercube-based NEAT
@@ -175,7 +179,7 @@ Some useful acronyms:
 
 - **[ISAE-Supaero Evolution class](https://github.com/d9w/evolution)**: module on evolution with a class on GP
 - **[UFABC-Symbolic Regression](https://folivetti.github.io/teaching/2025-summer-teaching-2)**: Symbolic Regression graduate course
-  
+
 ## Papers
 
 ## Researchers
