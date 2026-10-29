@@ -12,7 +12,7 @@ Deprecated software will still be maintained in the list according to popularity
 Some useful acronyms:
 
 - TGP: Tree-based Genetic Programming
-- CGP: Cartesian-Graph and Graph-based Genetic Programming
+- CGP: Cartesian and graph-based Genetic Programming
 - LGP: Linear Genetic Programming
 - GE: Grammatical Evolution or grammar-based Genetic Programming
 
@@ -25,7 +25,7 @@ Some useful acronyms:
 - [Awesome Genetic Programming](#awesome-genetic-programming)
   - [Algorithm implementations](#algorithm)
     - [Boolean function synthesis](#boolean-function-algorithms)      
-    - [Symbolic Regression](#symbolic-reggression-algorithms)
+    - [Symbolic Regression](#symbolic-regression-algorithms)
     - [Time-series](#time-series)
     - [Reinforcement Learning](#reinforcement-learning-algorithms)      
     - [Program Synthesis](#program-synthesis-algorithms)
@@ -40,7 +40,7 @@ Some useful acronyms:
     - [Program Synthesis Benchmark 2](#psb2)
     - [ARC Challenge](#arc-challenge)
   - [Datasets](#datasets)
-    - [PMLB](#pmbl)
+    - [PMLB](#pmlb)
     - [OpenML](#openml)
   - [Books](#books)
   - [Tutorials and Blog Posts](#tutorials)
@@ -80,7 +80,7 @@ Some useful acronyms:
 
 ### Time-series
 
-### CGP
+#### CGP
 - **[exa-gp](https://github.com/travisdesell/exact)**: graph-based genetic programming for time-series.
 
 ### Reinforcement Learning Algorithms
@@ -165,7 +165,7 @@ Some useful acronyms:
 
 ## Tutorials and Blog Posts
 
-- **[A Genetic Programming Tutorial  (John R. Koza and Riccardo Poli](http://www.lia.deis.unibo.it/Courses/AI/fundamentalsAI2004-05/lucidi/seminari/roli/gptutorial.pdf)**: genetic programming tutorial
+- **[A Genetic Programming Tutorial  (John R. Koza and Riccardo Poli)](http://www.lia.deis.unibo.it/Courses/AI/fundamentalsAI2004-05/lucidi/seminari/roli/gptutorial.pdf)**: genetic programming tutorial
 - **[CGP tutorial](https://github.com/d9w/CGP-tutorial)**: 2025 GECCO tutorial on Cartesian Genetic Programming
 - **[The Secret Weapon for Better Equation Discovery: E-graphs and Equality Saturation](https://symreg.at/blog/2025/equality-saturation-and-symbolic-regression/)**: blog post on the use of e-graphs to improve symbolic regression search algorithms.
 - **[A Powerful Database for Equations: Using e-graphs and Equality Saturation for Interactive Equation Discovery
